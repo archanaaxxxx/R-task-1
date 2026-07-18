@@ -72,21 +72,15 @@ The program generates:
 
 ## How to Run
 
-1. Clone the repository
+1. Open the project in RStudio.
 
-```bash
-git clone https://github.com/your-username/GMM-EM-R.git
-```
-
-2. Open the project in RStudio.
-
-3. Run the script:
+2. Run the script:
 
 ```R
 source("Task 1 using r.R")
 ```
 
-4. The generated outputs will be saved inside the **Output** folder.
+3. The generated outputs will be saved inside the **Output** folder.
 
 ---
 **Output**
