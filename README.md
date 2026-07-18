@@ -91,14 +91,15 @@ source("Task 1 using r.R")
 ---
 **Output**
 
-**Data Set**
+                      **Data Set**
+
 <img width="480" height="480" alt="dataset" src="https://github.com/user-attachments/assets/8b8ccde0-3e9d-4c13-b805-cbae1f0d5af4" />
 
-**Final Cluster**
+                     **Final Cluster**
 
 <img width="480" height="480" alt="final_clusters" src="https://github.com/user-attachments/assets/aba3f24d-42d2-4757-818f-1205e985409a" />
 
-**Log Likelihood**
+                      **Log Likelihood**
 
 <img width="480" height="480" alt="log_likelihood" src="https://github.com/user-attachments/assets/a44cf313-3c56-4f2a-9d6c-66eca8b9a045" />
 
